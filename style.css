@@ -1,0 +1,44 @@
+
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  
+    .qs{
+      z-index:1;
+      position:absolute;
+      left: 25%;
+      right:25%;
+      padding:10px;
+      border-radius: 5px;
+      top: 100px;
+      background-color: white;
+    }
+    .bg{
+      position:relative;
+      z-index:-1;
+    }
+    .star{
+      padding-right:5px;
+    }
+    .heading{
+      font-weight: 900;
+    }
+    .tableItem{
+      padding:10px;
+    }
+
+    .plus{
+        cursor:pointer;
+    }
+
+    .answer{
+        color:#B7A6BA;
+    }
+    h1,h3{
+        color:#301234;
+    }
+
+    .work-sans-font {
+        font-family: "Work Sans", sans-serif;
+        font-optical-sizing: auto;
+      }
+      
